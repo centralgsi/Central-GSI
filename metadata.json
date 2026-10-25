@@ -1,0 +1,6 @@
+{
+  "name": "GSI - Gestión y Control de Flota Vehicular",
+  "description": "Sistema centralizado de control de flota vehicular, mantenimientos, inspecciones y alertas en tiempo real para Logística y Operadores de GSI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
